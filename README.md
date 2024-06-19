@@ -1,4 +1,4 @@
-# Frontend Mentor - NFT preview card component solution
+# Frontend Mentor - NFT preview card component
 
 
 ## Overview
@@ -10,7 +10,7 @@ The component utilizes flexbox for layout and includes hover effects to enhance 
 
 
 ## Links
-- Live Site URL: [NFT Preview card](https://your-live-site-url.com)
+- Live Site URL: [NFT Preview card](https://nft-preview-card-100.netlify.app/)
 
 ## Features
 
